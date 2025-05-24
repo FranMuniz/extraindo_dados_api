@@ -4,7 +4,7 @@ Este projeto tem como objetivo acessar a **API do Portal da Transparência** par
 
 ---
 
-### 🚀 Funcionalidades
+### Funcionalidades
 
 - ✅ Download dos arquivos `.zip` via API do Portal da Transparência;
 - ✅ Extração e leitura dos dados diretamente da memória;
@@ -13,7 +13,7 @@ Este projeto tem como objetivo acessar a **API do Portal da Transparência** par
 
 ---
 
-## 🧠 Resultados esperados
+## Resultados esperados
 
 - 💰 Wanderlândia/TO em 01/2024: R$ 972.538,00
 - 🏆 UF com mais benefícios em 03/2024: SP
